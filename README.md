@@ -1,3 +1,1 @@
-Disclaimer:
-
-The content provided in this repository is for educational and informational purposes only. The authors are not responsible for any misuse of the code or information. Ensure you have proper authorization before using any tools or techniques described. Use this information responsibly and ethically.
+⚠️ **Disclaimer**: The content in this repository is for educational and informational purposes only; the authors hold no responsibility for misuse. Ensure proper authorization before use, act responsibly at your own risk, and comply with all legal and ethical guidelines. 🚀
